@@ -1,0 +1,24 @@
+{
+  "editor.tabSize": 2,
+  "editor.renderWhitespace": "all",
+  "editor.wordWrapColumn": 120,
+  "editor.minimap.enabled": false,
+  "files.watcherExclude": {
+    "**/.git/objects/**": true,
+    "**/.git/subtree-cache/**": true,
+    "**/node_modules/**": true,
+    "**/dst/**": true,
+    "**/dist/**": true,
+    "**/.awcache/**": true
+  },
+  "editor.formatOnSave": true,
+  "workbench.colorTheme": "Monokai",
+  "workbench.iconTheme": "Monokai Pro Icons",
+  "editor.cursorBlinking": "solid",
+  "window.zoomLevel": 0,
+  "vim.useCtrlKeys": false,
+  "vim.handleKeys": {
+    "<C-u>": true,
+    "<C-r>": true
+  }
+}
